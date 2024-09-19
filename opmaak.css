@@ -1,18 +1,23 @@
 body{
     background-color:darkkhaki;
 }
-ul{
+ul {
     list-style-type: none;
-    margin:0 ;
-    padding:0 ;
-    
-}
-li {
-    float: left;
-}
-
-a{
+    margin: 0;
+    padding: 0;
+    width: 200px;
+    background-color: #f1f1f1;
+  }
+  
+  li a {
     display: block;
-    padding: 8px;
-    border-color: greenyellow;
-}
+    color: #000;
+    padding: 8px 16px;
+    text-decoration: none;
+  }
+  
+  /* Change the link color on hover */
+  li a:hover {
+    background-color: #555;
+    color: white;
+  }
