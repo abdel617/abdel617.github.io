@@ -2,7 +2,7 @@ body{
     background-color:darkkhaki;
 }
 
-#body_binair{
+#body_binair > body{
     background-color:darkcyan;
 }
 ul {
