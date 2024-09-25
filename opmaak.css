@@ -1,5 +1,5 @@
 body{
-    background-color:darkkhaki;
+    background-color:rgb(20, 216, 141);
 }
 
 #body_binair{
@@ -10,7 +10,7 @@ ul {
   margin: 0;
   padding: 0;
   overflow: hidden;
-  background-color: white;
+  background-color:aqua;
 }
 
 li {
