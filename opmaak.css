@@ -1,16 +1,19 @@
 body{
-    background-color:rgb(20, 216, 141);
+    background-color:darkcyan;
 }
 
 #body_binair{
-    background-color:darkcyan;
+    background-color:lightgoldenrodyellow;
+}
+#body_kleurmodel{
+  background-color:darkseagreen ;
 }
 ul {
   list-style-type: none;
   margin: 0;
   padding: 0;
   overflow: hidden;
-  background-color:aqua;
+  background-color:darkslategrey;
 }
 
 li {
