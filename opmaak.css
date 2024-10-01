@@ -45,4 +45,5 @@ li a:hover {
 .kleurenmodel{
   display: flex;
   flex-direction: column;
+  margin-left:25vw;
 }
