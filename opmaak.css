@@ -34,7 +34,11 @@ li a:hover {
 }
 
 .kleurenmodel_foto{
-  width:250px ;
+  width:60% ;
   height:200px ;
 }
-  
+
+.binair_foto{
+  width:300px ;
+  height:250px ;
+}
