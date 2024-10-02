@@ -43,7 +43,5 @@ li a:hover {
   height:250px ;
 }
 .kleurenmodel{
-  display: flex;
-  flex-direction: column;
   margin-left:25vw;
 }
