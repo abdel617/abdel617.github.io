@@ -52,3 +52,7 @@ li a:hover {
   flex-direction: column;
   margin-left:25vw;
 }
+ p {
+  font-size: 14px;
+
+}
