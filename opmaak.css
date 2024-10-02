@@ -32,7 +32,10 @@ li a {
 li a:hover {
   background-color: #111;
 }
-
+footer{
+  background-color: black;
+  height:15vh ;
+}
 .kleurenmodel_foto{
   width:60% ;
   height:250px ;
