@@ -55,12 +55,12 @@ footer{
   font-size: 14px;
 
 }
-.TAA{
+.TAA> img{
   width:250vw ;
   height:200vh ;
 }
 
-.logo{
+.logo > img{
   width:250vw ;
   height:200vh ;
 }
