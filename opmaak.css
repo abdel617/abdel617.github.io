@@ -47,10 +47,8 @@ li a:hover {
   flex-direction: column;
   margin-left:25vw;
 }
-.binairegetal{
-  display: flex;
-  flex-direction: column;
-  margin-left:25vw;
+.binairegetal > img{
+  
 }
  p {
   font-size: 14px;
