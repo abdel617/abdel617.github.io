@@ -56,11 +56,13 @@ footer{
 
 }
 .TAA {
+  position: absolute;
   width:250vw ;
   height:200vh ;
 }
 
 .logo{
+  position: absolute;
   width:250vw ;
   height:200vh ;
 }
