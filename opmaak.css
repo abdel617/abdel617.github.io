@@ -35,6 +35,7 @@ li a:hover {
 footer{
   background-color: black;
   height:15vh ;
+  margin-top: 15vh;
 }
 .kleurenmodel_foto{
   width:60% ;
