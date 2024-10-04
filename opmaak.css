@@ -69,6 +69,7 @@ footer{
 .logo{ 
   width:350px ;
   height:250px ;
+  position: absolute;
   top: 50vh;
   right: 10vw;
 }
