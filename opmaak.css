@@ -45,8 +45,8 @@ footer{
   width:450px ;
   height:300px ;
   position: absolute;
-  top: 5vh;
-  right: 10vw;
+  top: 10vh;
+  right: 5vw;
 }
 .kleurenmodel{
   display: flex;
