@@ -42,8 +42,8 @@ footer{
 }
 
 .binair_foto{
-  width:300px ;
-  height:250px ;
+  width:380px ;
+  height:300px ;
   position: absolute;
   top: 10vh;
   right: 15vw;
@@ -59,13 +59,11 @@ footer{
 
 }
 .TAA {
-  
   width:250px ;
   height:200px ;
 }
 
-.logo{
-  
+.logo{ 
   width:250px ;
   height:200px ;
 }
