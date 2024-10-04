@@ -46,7 +46,7 @@ footer{
   height:300px ;
   position: absolute;
   top: 10vh;
-  right: 15vw;
+  right: 10vw;
 }
 .kleurenmodel{
   display: flex;
@@ -63,12 +63,12 @@ footer{
   height:250px ;
   position: absolute;
   top: 10vh;
-  right: 15vw;
+  right: 10vw;
 }
 
 .logo{ 
   width:350px ;
   height:250px ;
   top: 50vh;
-  right: 15vw;
+  right: 10vw;
 }
