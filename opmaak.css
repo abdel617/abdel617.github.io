@@ -64,6 +64,7 @@ footer{
   position: absolute;
   top:50vh;
   right: 10vw;
+  width: 500px;
 }
 .kleurenmodel{
   display: flex;
