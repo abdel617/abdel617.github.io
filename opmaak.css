@@ -1,12 +1,19 @@
 body{
-    background-color:darkcyan;
+  background-color:darkcyan;
 }
 
 #body_binair{
-    background-color:lightgoldenrodyellow;
+  background-color:lightgoldenrodyellow;
 }
 #body_kleurmodel{
   background-color:darkseagreen ;
+}
+
+#body_compressie{
+background-color: darkgoldenrod;
+}
+#body_bitvector{
+background-color: darkolivegreen;
 }
 ul {
   list-style-type: none;
