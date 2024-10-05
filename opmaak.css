@@ -85,6 +85,18 @@ height:500px ;
 .footer_compressie{
   margin-top: 65vh;
 }
+
+.bitvector_foto{
+  width:450px ;
+  height:350px ;
+  position: absolute;
+  top: 60vh;
+  right: 10vw;
+}
+
+.bitvector_p2{
+  width: 600px;
+}
 .logo {
   width:350px ;
   height:250px ;
