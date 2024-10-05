@@ -76,6 +76,13 @@ footer{
   font-size: 19px;
 
 }
+.compressie_foto{
+width: 400px;
+height:600px ;
+  position: absolute;
+  top: 10vh;
+  right: 10vw;
+}
 .logo {
   width:350px ;
   height:250px ;
