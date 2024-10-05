@@ -44,9 +44,7 @@ footer{
   height:15vh ;
 
 }
-.footer_home {
-  margin-top: 60vh;
-}
+
 .kleurenmodel_foto{
   width:60% ;
   height:250px ;
@@ -83,6 +81,10 @@ height:500px ;
   top: 10vh;
   right: 10vw;
 }
+
+.footer_compressie{
+  margin-top: 60vh;
+}
 .logo {
   width:350px ;
   height:250px ;
@@ -97,4 +99,7 @@ height:500px ;
   position: absolute;
   top: 50vh;
   right: 10vw;
+}
+.footer_home {
+  margin-top: 60vh;
 }
