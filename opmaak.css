@@ -61,6 +61,7 @@ footer{
 }
 
 .binair_p2{
+  position: absolute;
   top: 35vh;
   right: 15vw;
 }
