@@ -52,6 +52,11 @@ footer{
   top: 10vh;
   right: 5vw;
 }
+
+.binair_p2{
+  top: 35vh;
+  right: 15vw;
+}
 .kleurenmodel{
   display: flex;
   flex-direction: column;
