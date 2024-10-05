@@ -40,9 +40,11 @@ li a:hover {
   background-color: #111;
 }
 footer{
-  background-color: black;
+  background-color:darkslategray ;
   height:15vh ;
-
+}
+footer > p {
+  color: white;
 }
 
 .kleurenmodel_foto{
