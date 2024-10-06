@@ -64,12 +64,12 @@ footer > p {
 .binair_h2{
   position: absolute;
   top:55vh;
-  right: 10vw;
+  right: 25vw;
 }
 
 .binair_p2{
   position: absolute;
-  top:58vh;
+  top:60vh;
   right: 10vw;
   width: 600px;
 }
