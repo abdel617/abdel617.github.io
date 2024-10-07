@@ -1,5 +1,6 @@
 body{
-  background-color:darkcyan;
+  background-color:darkcyan; /* Dit geeft de body een achtergrondkleur.*/
+
 }
 
 #body_binair{
@@ -12,10 +13,12 @@ body{
 #body_compressie{
 background-color:gray;
 }
+
 #body_bitvector{
 background-color: darkolivegreen;
 }
-ul {
+
+ul { /*Dit geeft stijl aan de navigatie bar*/
   list-style-type: none;
   margin: 0;
   padding: 0;
@@ -24,10 +27,11 @@ ul {
 }
 
 li {
-  float: left;
+  float: left; /* Dit positioneert de navigatie bar */
+
 }
 
-li a {
+li a { /*Dit geeft stijl aan de letters van de navigatie bar*/
   display: block;
   color: white;
   text-align: center;
@@ -37,23 +41,24 @@ li a {
 
 
 li a:hover {
-  background-color: #111;
+  background-color: #111; /* Dit zorgt ervoor als je er over heen gaat dat het zwart is. */
+
 }
 footer{
   background-color:black ;
   height:15vh ;
 }
-footer > p {
+footer > p { /* Dit geeft stijl aan de p van de footer. */
   color:white;
   margin-left: 30vw;
 }
 
-.kleurenmodel_foto{
+.kleurenmodel_foto{ /* Ik geef een foto hier een hoogte en breedte. */
   width:60% ;
   height:250px ;
 }
 
-.binair_foto{
+.binair_foto{ /* Ik positioneer hier een foto. Door hem 10vh van de hoogte te zetten en 5vw van de breedte */
   width:450px ;
   height:300px ;
   position: absolute;
@@ -73,13 +78,13 @@ footer > p {
   right: 3vw;
   width: 600px;
 }
-.kleurenmodel{
+.kleurenmodel{ /* Ik zet de section in een kolom en haal hem 25vw van link. */
   display: flex;
   flex-direction: column;
   margin-left:25vw;
 }
 
- p {
+ p { /* Ik pas hier de grootte van de p aan */
   font-size: 19px;
 
 }
@@ -103,7 +108,7 @@ height:400px ;
   right: 7vw;
 }
 
-.bitvector_p2{
+.bitvector_p2{ /* Hier zet ik de tekst meer onder elkaar. */
   width: 750px;
 }
 
@@ -111,7 +116,7 @@ height:400px ;
   width: 750px;
 }
 
-.footer_bitvector{
+.footer_bitvector{ /* Hier haal ik de footer omlaag. */
   margin-top: 65vh;
 }
 .logo {
@@ -145,4 +150,5 @@ height:400px ;
 .algemeneinfo_p1{
   position: absolute;
   right:20vw ;
+  width:650px ;
 }
