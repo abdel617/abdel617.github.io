@@ -92,7 +92,7 @@ height:400px ;
 }
 
 .footer_compressie{
-  margin-top: 65vh;
+  margin-top: 50vh;
 }
 
 .bitvector_foto{
@@ -131,4 +131,18 @@ height:400px ;
 }
 .footer_home {
   margin-top: 60vh;
+}
+.algemeneinfo_foto{
+  height:450px ;
+  width:300px ;
+}
+
+.algemeneinfo_h1{
+  position: absolute;
+  right:35vw ;
+}
+
+.algemeneinfo_p1{
+  position: absolute;
+  right:20vw ;
 }
