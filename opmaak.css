@@ -143,12 +143,10 @@ height:400px ;
 }
 
 .algemeneinfo_h1{
-  position: absolute;
-  right:35vw ;
+ margin-right: 35vw;
 }
 
 .algemeneinfo_p1{
-  position: absolute;
-  right:20vw ;
+ margin-right: 15vw;
   width:650px ;
 }
