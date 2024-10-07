@@ -99,11 +99,15 @@ height:400px ;
   width:500px ;
   height:350px ;
   position: absolute;
-  top: 35vh;
+  top: 40vh;
   right: 7vw;
 }
 
 .bitvector_p2{
+  width: 750px;
+}
+
+.bitvector_p3{
   width: 750px;
 }
 
